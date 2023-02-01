@@ -2,8 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-/*Alterar esse código para que o programa não se encerre depois de realizada
-as operações bancárias, e pergunte ao usuário de ele deseja realizar mais uma operação.*/
+
 int mostrar(void){
     printf("\n======Banco Central======\n\n");    
     printf("Digite (1) para Saldo,\n (2) para Extrato,\n (3) para Saque\n (4) para depositar\n");
